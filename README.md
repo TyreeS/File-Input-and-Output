@@ -12,7 +12,9 @@ Create a toString() method that prints the contents of the object
 Create a method called empRank, which returns a String indicating the employees rank
 rank determined by
   o if salary less than = 6000 "Junior Staff"
+  
   o if between 6001 and 15000 "Senior Staff"
+  
   o if salary greater than 15000 "Manager"
   
 In your TestEmployee class, create 3 employees and store them in a file. Ensure that
