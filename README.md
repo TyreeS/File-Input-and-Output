@@ -10,7 +10,8 @@ Enforce encapsulation and create getters and setters for all instance variables
 Create a toString() method that prints the contents of the object
 
 Create a method called empRank, which returns a String indicating the employees rank
-rank determined by
+rank determined by:
+
   o if salary less than = 6000 "Junior Staff"
   
   o if between 6001 and 15000 "Senior Staff"
